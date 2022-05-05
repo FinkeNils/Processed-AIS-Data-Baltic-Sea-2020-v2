@@ -29,5 +29,5 @@ To calculate supply and idle in zones based on AIS, following steps have been pe
 
 ### References
 
-- Raw AIS Data: https://www.dma.dk/SikkerhedTilSoes/Sejladsinformation/AIS/
+- Raw AIS Data: https://dma.dk/safety-at-sea/navigational-information/ais-data
 - Vessel Database: https://www.vesselfinder.com/de
